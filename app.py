@@ -18,7 +18,7 @@ app = Flask(__name__)
 CORS(app, supports_credentials=True, resources={r"*": {"origins": "*"}})
 app.config['DEBUG'] = True
 
-dbname   = 'mysql+pymysql://root:dinakoiingon@127.0.0.1/geeksolutions'
+dbname   = 'mysql+pymysql://root:somepass@127.0.0.1/geeksolutions'
 
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', dbname)
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
