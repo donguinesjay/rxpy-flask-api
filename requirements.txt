@@ -1,0 +1,16 @@
+Flask
+Flask_JWT
+Flask_SQLAlchemy
+Flask_RESTful
+flask_cors
+flask_jwt_extended
+flask_excel
+sqlalchemy
+pymysql
+apscheduler==2.1.0
+six
+uwsgi
+simplejson
+pyexcel
+pytz
+rx
