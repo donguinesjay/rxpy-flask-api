@@ -1,7 +1,7 @@
 #Test Project for Rxpy and flask-rest api
 
 
-###Installation###
+### Installation
 
 	* install python 3 or higher.
 	* clone the repo using http or ssh - git clone <link>
@@ -9,11 +9,11 @@
 	* run the app - python app.py
 
 
-###Motivation###
+### Motivation
 
 	nothing just for fun.
 
-###License###
-
+### License
+ 
 	Copyright Mr. No<body> 2017.
 	- copy lang wlng ending ahaha
